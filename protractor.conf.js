@@ -4,7 +4,7 @@ var webdriver = require('chromedriver'),
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-  	baseUrl: 'http://localhost:3000',
+  	baseUrl: 'http://localhost:9000',
   	chromeDriver: webdriver.path,
   	capabilities: {
         'browserName': 'chrome'
