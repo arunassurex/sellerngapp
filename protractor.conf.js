@@ -4,7 +4,7 @@ var webdriver = require('chromedriver'),
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-  	baseUrl: 'http://localhost:9000',
+    baseUrl: 'https://sellerngapp.vercel.app/',
   	chromeDriver: webdriver.path,
   	capabilities: {
         'browserName': 'chrome'
