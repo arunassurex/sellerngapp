@@ -1,7 +1,7 @@
 {
   "appname": "Assurex Mart Supplier Portal",
   "clientid": "0B8B8FFC-2600-4B00-AF28-6034BBB02639",
-  "environment": "prod",
+  "environment": "production",
   "defaultstate": "home",
   "html5mode": true,
   "bootswatchtheme": null,
